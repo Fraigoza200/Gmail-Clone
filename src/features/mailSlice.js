@@ -10,7 +10,7 @@ export const mailSlice = createSlice({
       state.sendMessageIsOpen = true;
     },
     closeSendMessage: state => {
-      state.sendMessageIsOpen: false;
+      state.sendMessageIsOpen = false;
     },
   },
 });
@@ -18,6 +18,6 @@ export const mailSlice = createSlice({
 export const { OpenSendMessage, closeSendMessage } = mailSlice.actions;
 
 
-export const selectMail = state => state.mail.value;
+export const selectSendMessageIsOpen = state => state.mail.sendMessageIsOpen;
 
 export default mailSlice.reducer;
