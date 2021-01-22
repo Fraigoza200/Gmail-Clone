@@ -1,3 +1,18 @@
+## Landing Page
+![Gmail-LandingPage](https://user-images.githubusercontent.com/52722189/105429102-99cef080-5c05-11eb-8abb-dfd9cccc126f.png)
+
+## Users are able to compose a message by clicking the "Compose" button
+![Gmail-LoggedIn](https://user-images.githubusercontent.com/52722189/105429109-9c314a80-5c05-11eb-96d8-d5c61f62e398.png)
+
+## By clicking on the message, users will see a full screen view of the email that was sent
+![Gmail-Email](https://user-images.githubusercontent.com/52722189/105429072-8e7bc500-5c05-11eb-8808-9a6b69d948c5.png)
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
